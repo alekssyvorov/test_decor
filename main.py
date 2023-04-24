@@ -34,10 +34,4 @@ class Lucy:
         print(f"Мне {self.age+lie} лет, а ты бы сколько дал?")
 
 l = Lucy()
-l.sayYourAge(-3)
-l.sayYourAge(-3)
-l.sayYourAge(-3)
-l.sayYourAge(-3)
-l.sayYourAge(-3)
-l.sayYourAge(-3)
 
