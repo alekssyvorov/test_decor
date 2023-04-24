@@ -37,4 +37,7 @@ l = Lucy()
 l.sayYourAge(-3)
 l.sayYourAge(-3)
 l.sayYourAge(-3)
+l.sayYourAge(-3)
+l.sayYourAge(-3)
+l.sayYourAge(-3)
 
